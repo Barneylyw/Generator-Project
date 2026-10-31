@@ -1,6 +1,6 @@
 # Generator Project
 
-**Status:** Paused indefinitely (cost) — last worked on April 16 2026
+**Status:** Paused indefinitely (cost & no actual use case) — last worked on April 16, 2026
 
 FEMM, Python scripts, and my handwritten notes for my AC generator project. The goal was to build an AC generator, but it is currently paused indefinitely due to cost.
 
